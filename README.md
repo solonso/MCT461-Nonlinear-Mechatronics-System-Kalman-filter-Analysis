@@ -2,8 +2,9 @@
 Kalman filtering is a powerful technique for estimating the state of nonlinear mechatronics systems from noisy measurements. Kalman filters have a wide range of applications in robotics, vehicle control, and aircraft control.
 
 # Pendulum State Estimation with Kalman Filter
+![Simple_pendulum](https://github.com/solonso/MCT461-Nonlinear-Mechatronics-System-Kalman-filter-Analysis/assets/63534670/a462873f-a417-47c8-b08b-5286f20eaede)
 
-![Pendulum Image](https://yourimageurl.com/pendulum.jpg)
+
 
 **Pendulum Control with Kalman Filter** is a MATLAB project for controlling and stabilizing a simple pendulum system using a Kalman filter. This README provides a brief overview of the code and how to get started.
 
